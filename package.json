@@ -1,0 +1,21 @@
+{
+  "name": "talking-eliza",
+  "version": "1.0.0",
+  "scripts": {
+    "install": "napa brandongmwong/elizabot-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbadenski/talking-eliza"
+  },
+  "author": "Pawel Badenski <pawel.badenski@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pbadenski/talking-eliza/issues"
+  },
+  "homepage": "https://github.com/pbadenski/talking-eliza",
+  "devDependencies": {
+    "napa": "^2.3.0",
+    "webpack": "^1.13.3"
+  }
+}
